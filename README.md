@@ -1,2 +1,3 @@
-# Code flutter mobile app
-To do list app
+# To do list app
+
+Code flutter mobile app
